@@ -30,10 +30,11 @@ Uma imagem ou GIF animado mostrando o funcionamento do projeto.
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - ⚛️ React
-- 💅 Tailwind CSS
+- 💅 CSS, HTML E SCRIPT.JS
 - 🔺 Vite
 - 🟨 TypeScript
 - 📦 Axios / React Router (opcional)
+-
 
 ---
 
